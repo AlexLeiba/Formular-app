@@ -1,6 +1,6 @@
-## Formular
+# Formular
 
-# what features does it have:
+## what features does it have:
 
 * errors in entering the wrong characters
 * errors when entering fewer characters than necessary
