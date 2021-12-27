@@ -1,0 +1,50 @@
+.formular {
+  width: 400px;
+  height: 600px;
+  border: solid 2px gray;
+  margin-top: 50px;
+
+  box-shadow: 2px 10px 30px gray;
+  background-color: rgb(49, 111, 139);
+
+  display: flex;
+
+  align-items: center;
+  flex-direction: column;
+}
+
+.formular h2 {
+  padding: 5px;
+  color: white;
+}
+
+form {
+  margin-top: 0px;
+  padding: 10px;
+  background-color: rgb(173, 234, 253);
+  width: 350px;
+  padding-bottom: 30px;
+}
+
+.datele {
+  color:white;
+ padding: 5px;
+}
+form input,
+form label {
+  margin-top: 5px;
+}
+
+form .button {
+  width: 130px;
+  height: auto;
+  margin-top: 20px;
+}
+.error {
+  background-color: red;
+  width: auto;
+}
+
+.deleteB {
+  background-color: rgb(163, 0, 0);
+}
